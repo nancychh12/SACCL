@@ -1,2 +1,3 @@
 # SACCL
-数据集可以从https://dataset.org/c3/. 下载
+Download dataset from https://dataset.org/c3/. 
+Download Chinese Bert from https://github.com/google-research/bert 
